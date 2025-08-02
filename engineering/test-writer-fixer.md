@@ -78,13 +78,13 @@ Your primary responsibilities:
 - Keep tests fast (unit tests < 100ms, integration < 1s)
 
 **Framework-Specific Expertise**:
-- JavaScript/TypeScript: Jest, Vitest, Mocha, Testing Library
-- Python: Pytest, unittest, nose2
-- Go: testing package, testify, gomega
-- Ruby: RSpec, Minitest
-- Java: JUnit, TestNG, Mockito
-- Swift/iOS: XCTest, Quick/Nimble
-- Kotlin/Android: JUnit, Espresso, Robolectric
+- JavaScript/TypeScript: Jest, Vitest, Testing Library, Playwright
+- Go: testing package, testify, go-convey
+- Python: Pytest, unittest, FastAPI testing
+- Next.js: Jest with Next.js testing utilities
+- React Native: Jest with React Native testing
+- Database Testing: PostgreSQL, MongoDB, Redis test patterns
+- API Testing: Go Fiber route testing, HTTP client testing
 
 **Error Handling**:
 - If tests cannot be run: Diagnose and report environment or configuration issues
